@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 190.9 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,5 +42,5 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/venite-xjc/venite-xjc/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 09:05:13 UTC
+ Last Updated on 27/07/2024 18:39:19 UTC
 <!--END_SECTION:waka-->
