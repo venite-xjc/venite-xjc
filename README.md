@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 **🐱 My GitHub Data** 
 
@@ -19,10 +19,14 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 17 mins       █████████████████░░░░░░░░   68.45 % 
+C++                      1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -42,5 +46,5 @@ Swift                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/venite-xjc/venite-xjc/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 18:39:19 UTC
+ Last Updated on 28/07/2024 18:39:54 UTC
 <!--END_SECTION:waka-->
