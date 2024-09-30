@@ -25,7 +25,8 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"  # 一周中不同日期进行的提交
           SHOW_LANGUAGE: "True" # 编码语言
           SHOW_EDITORS: "True" # 编辑器
+          BLOCKS: "⬜🟨🟩"
           SHOW_LANGUAGE_PER_REPO: "True" #  
-          SHOW_SHORT_INFO: "True" # 用户的简短趣闻信息
+          SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
           SHOW_LOC_CHART: "True" # 年份不同季度编写的代码行数
           SYMBOL_VERSION: "2" # 设置为进度条的符
