@@ -27,7 +27,6 @@ jobs:
           SHOW_EDITORS: "True" # 编辑器
           BLOCKS: "⬜🟨🟩"
           SHOW_LANGUAGE_PER_REPO: "True" #  
-          SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
-          SHOW_LOC_CHART: "True" # 年份不同季度编写的代码行数
+          SHOW_LOC_CHART: "False" # 年份不同季度编写的代码行数
           SYMBOL_VERSION: "3" # 设置为进度条的符
